@@ -1,1 +1,2 @@
 I have knowledge of devops tool
+I have knowldge of docker ,ansible
